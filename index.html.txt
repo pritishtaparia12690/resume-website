@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Pritish Taparia | Resume</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<nav>
+<h2>Pritish Taparia</h2>
+
+<ul>
+<li><a href="#about">About</a></li>
+<li><a href="#education">Education</a></li>
+<li><a href="#experience">Experience</a></li>
+<li><a href="#achievements">Achievements</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+
+<header>
+
+<h1>Pritish Taparia</h1>
+
+<p>Integrated BBA–MBA Student | Institute of Management, Nirma University</p>
+
+</header>
+
+<section id="about" class="section">
+
+<h2>About Me</h2>
+
+<p>
+I am currently pursuing an Integrated BBA–MBA program at the Institute of Management, Nirma University. I have a strong interest in business, entrepreneurship, and finance. I enjoy exploring how businesses operate and learning about market trends and management.
+</p>
+
+</section>
+
+<section id="education" class="section">
+
+<h2>Education</h2>
+
+<div class="card">
+
+<h3>Integrated BBA – MBA</h3>
+
+<p>Institute of Management, Nirma University</p>
+
+<p>2025 – 2030 (Pursuing)</p>
+
+</div>
+
+<div class="card">
+
+<h3>Class XII – Commerce</h3>
+
+<p>Delhi Public School, Bopal</p>
+
+<p>Score: 95%</p>
+
+</div>
+
+<div class="card">
+
+<h3>Class X</h3>
+
+<p>Delhi Public School, Bopal</p>
+
+<p>Score: 96.2%</p>
+
+</div>
+
+</section>
+
+<section id="experience" class="section">
+
+<h2>Internship</h2>
+
+<div class="card">
+
+<h3>Marketing & Operations Intern</h3>
+
+<p>Alstrom Intl Pvt Ltd</p>
+
+<p>
+Assisted in marketing and operations activities and gained exposure to pricing, demand trends and supply chain management.
+</p>
+
+</div>
+
+</section>
+
+<section id="achievements" class="section">
+
+<h2>Achievements</h2>
+
+<ul class="list">
+
+<li>Gold Medal in SOF International Commerce Olympiad</li>
+<li>Certificate of Merit in National Economics Olympiad (SRCC)</li>
+<li>Winner of GIIS Ideate 3.0 “Futurepreneur” Competition</li>
+<li>3rd Rank in Lead-a-Thon event organised by IMS Gujarat</li>
+<li>Winner in Gujarat Gyan Guru Quiz (G3Q)</li>
+
+</ul>
+
+</section>
+
+<section id="contact" class="section">
+
+<h2>Contact</h2>
+
+<p>Email: 25bba448@nirmauni.ac.in</p>
+<p>Phone: 8200690443</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 Pritish Taparia</p>
+
+</footer>
+
+</body>
+
+</html>
